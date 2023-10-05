@@ -65,11 +65,11 @@ The implementation is very easy. we need to addd some  property in `workbox` obj
 ```
 
 ### Result Excercise
-![Storage Browser]('./git-images/Storage.png')
-![Cache Data]('./git-images/Cache.png')
+<img src='https://github.com/Barbarpotato/React-PWA-Fundamental/blob/main/git-images/Storage'/>
+<img src='https://github.com/Barbarpotato/React-PWA-Fundamental/blob/main/git-images/Cache'/>
 
 `Below is the result example of how the PWA can running the application without the network traffic and requested from the server.`
-![Cache Data]('./git-images/Result.png')
+<img src='https://github.com/Barbarpotato/React-PWA-Fundamental/blob/main/git-images/Result.png'/>
 
 
 ### Service Worker without PWA capabilities
